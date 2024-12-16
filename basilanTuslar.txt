@@ -1,21 +1,3 @@
-asdg
-Key.enter
-sd
-Key.enter
-sw
-Key.enter
-sd
-Key.enter
-aeray
-Key.enter
-selam
-Key.space
-dosyrum
-Key.enter
-ben
-Key.space
-erayasar
-Key.enter
-
-Key.cmd_r
-q
+Keylogger başlatıldı
+--------------------------------------------------
+tamam<space>ablacımm<enter><cmd><tab><esc>
